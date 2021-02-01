@@ -32,3 +32,7 @@ In JavaScript we can add comments into the code by adding `//` for single-line c
   comment
 */
 ```
+
+# Line termination
+
+In most cases in JavaScript we are requiered to include a semi-colon at the end of each line, `;`. Even though it's not always requiered, best practice is to always include it.
