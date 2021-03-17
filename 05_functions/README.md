@@ -15,5 +15,3 @@ We can simplify the notation with arrow functions. If there's only one argument 
 ```javascript
 const convertPercent = num => num / 100;
 ```
-
-
