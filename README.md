@@ -12,7 +12,7 @@
 
 1. [Including JS in a webpage](https://github.com/daczarne/codestackr_js_tutorial/tree/main/01_including_js_in_a_webpage)
 
-1. [Variables](https://github.com/daczarne/codestackr_js_tutorial/tree/main/02_variable)
+1. [Variables](https://github.com/daczarne/codestackr_js_tutorial/tree/main/02_variables)
 
 1. [Constants](https://github.com/daczarne/codestackr_js_tutorial/tree/main/03_constants)
 
